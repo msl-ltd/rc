@@ -1,0 +1,35 @@
+{
+  "diffEditor.experimental.showMoves": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": true,
+
+  "editor.accessibilitySupport": "off",
+  "editor.minimap.showSlider": "always",
+  "editor.renderControlCharacters": true,
+  "editor.renderWhitespace": "all",
+
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+
+  "githubPullRequests.notifications": "pullRequests",
+  "githubPullRequests.showPullRequestNumberInTree": true,
+
+  "telemetry.telemetryLevel": "off",
+
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.tabs.location": "left",
+
+  "typescript.tsdk": "./node_modules/typescript/lib",
+
+  "vim.useSystemClipboard": true,
+
+  "window.zoomLevel": -1,
+
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.startupEditor": "none"
+}
