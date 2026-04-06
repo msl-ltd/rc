@@ -16,14 +16,14 @@
   "githubPullRequests.notifications": "pullRequests",
   "githubPullRequests.showPullRequestNumberInTree": true,
 
+  "js/ts.tsdk.path": "./node_modules/typescript/lib",
+
   "telemetry.telemetryLevel": "off",
 
   "terminal.integrated.copyOnSelection": true,
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "terminal.integrated.scrollback": 10000,
   "terminal.integrated.tabs.location": "left",
-
-  "typescript.tsdk": "./node_modules/typescript/lib",
 
   "vim.useSystemClipboard": true,
 
